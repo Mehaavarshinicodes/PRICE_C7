@@ -4,9 +4,12 @@
 - Track: Demand Forecasting and Cultural Signal Analytics
 - Application Name: The Trend Forecaster
 - Team Members:
-  - Member 1: [Full Name (@github_handle)]
-  - Member 2: [Full Name (@github_handle)]
-  - Member 3: [Full Name (@github_handle)]
+  - Member 1: Tejas S K(@github_handle)
+  - Member 2: Mehaavarshini J(@github_handle)
+  - Member 3: Lakshana G S(@github_handle)
+  - Memeber 4: Shirley Trinita S
+  - Member  5: Rithika H
+  - Member 6 : Priyadarshini S
 
 ---
 
